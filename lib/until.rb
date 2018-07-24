@@ -1,6 +1,10 @@
-def using_until
-        levitation_force = 6
-        #your code here
-    
-end
+def potter
+  using_until=6
+  until using_until==10
+  puts "Wingardium Leviosa"
+  puts ""
+  using_until+=1
+  end 
+end 
+#potter
 
